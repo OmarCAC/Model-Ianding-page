@@ -1,0 +1,8 @@
+{
+  "name": "EntreprendreFacile - Business Creation Assistant 1",
+  "description": "A high-conversion landing page for business creation assistance, focusing on solving administrative pain points and legal complexity using automated workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
